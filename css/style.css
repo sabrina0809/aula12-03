@@ -1,0 +1,25 @@
+.tabela{
+   /*da para por    border-collapse: collapse;*/
+    width: 100%;
+}
+
+th, td{
+    border: 3px solid #f159bf;
+    text-align: center;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+tr:hover{
+    background-color: aliceblue;
+}
+
+th{
+    background-color: #be7be7;
+    color: white;
+}
+
+
+.topo{
+    text-align: center;
+}
